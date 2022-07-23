@@ -41,3 +41,23 @@ ul > li > a:hover {
     color: white;
     border-radius: 10px;
 }
+
+.btn{
+    font-size: 1.2em;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(11, 220,11);
+    box-shadow: 1px 1px 1px 1px greenyellow;
+    border: none;
+    border-radius: 10px;
+    padding: 4px 8px 4px 8px;
+    margin-bottom: 20px;
+    margin-top: 20px; 
+}
+.btn:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+hr {
+    opacity: 0.1;
+}
